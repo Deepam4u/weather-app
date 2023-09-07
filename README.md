@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App] \n
+This project was bootstrapped with [Create React App] <br>
 Check here - [Weather App](https://weather-app-qf9m.onrender.com)
 
 ### `npm install`
