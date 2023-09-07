@@ -1,5 +1,5 @@
-This project was bootstrapped with [Create React App]
-Check here - [Weather App]([https://pages.github.com/](https://weather-app-qf9m.onrender.com)
+This project was bootstrapped with [Create React App] \n
+Check here - [Weather App](https://weather-app-qf9m.onrender.com)
 
 ### `npm install`
 ### `npm start`
